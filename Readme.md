@@ -3,3 +3,5 @@ To run the program, type 'python3 ConstellationMaker.py [-name] [-box]
     -box: draws a box around the constellation
 
 To exit the program, close the turtle graphics window.
+
+Uses functions from the FunctionPlotter.py
