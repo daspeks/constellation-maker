@@ -1,7 +1,11 @@
-To run the program, type 'python3 ConstellationMaker.py [-name] [-box]
-    -name: displays the names of important stars
-    -box: draws a box around the constellation
+Uses functions from `FunctionPlotter.py` in `function-plotter` repository 
 
-To exit the program, close the turtle graphics window.
+### To run: 
+1. download all files of this repository and `FunctionPlotter.py` from `function-plotter` repository
+2. make sure all the downloaded files are in the same directory
+3. type `python3 ConstellationMaker.py [-name] [-box]` where
+    - name: displays the names of important stars
+    - box: draws a box around the constellation
 
-Uses functions from the FunctionPlotter.py
+### To exit:
+1. close the turtle graphics window.
