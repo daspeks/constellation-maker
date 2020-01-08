@@ -1,5 +1,4 @@
 # Constellation Maker
----
 
 <img src="https://img.shields.io/scrutinizer/quality/g/daspeks/constellation-maker">
 
