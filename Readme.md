@@ -1,3 +1,7 @@
+# Constellation Maker
+https://img.shields.io/scrutinizer/quality/g/daspeks/constellation-maker
+---
+
 Uses functions from `FunctionPlotter.py` in `function-plotter` repository 
 
 ### To run: 
