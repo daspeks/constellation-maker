@@ -2,6 +2,7 @@
 
 ![quality](https://img.shields.io/scrutinizer/quality/g/daspeks/constellation-maker)
 ![build](https://img.shields.io/scrutinizer/build/g/daspeks/constellation-maker)
+![](https://img.shields.io/github/repo-size/daspeks/constellation-maker)
 
 Uses functions from `FunctionPlotter.py` in `function-plotter` repository 
 
